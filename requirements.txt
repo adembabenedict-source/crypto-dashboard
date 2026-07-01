@@ -1,2 +1,0 @@
-echo streamlit > requirements.txt
-type requirements.txt
